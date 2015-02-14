@@ -58,7 +58,7 @@ f-priclied ()
 {
 clear
 echo -e "                                                                                
-  ${cyan}PriCliEd${NC} - Primitive Console Text Editor                                      
+  ${cyan}PriCliEd${NC} - Primitive command-line Text Editor                             
                                                                                 
   No Backspace, no Undo, no Edit. Just press Return to save every new line.     
                                                                                 
