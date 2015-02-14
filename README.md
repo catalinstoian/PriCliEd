@@ -1,4 +1,4 @@
-**PriCliEd** - Primitive Console Text Editor for Linux
+**PriCliEd** - primitive command-line text editor for Linux
 
 No Backspace, no Undo, no Edit. Just press Return to save every new line.
 
